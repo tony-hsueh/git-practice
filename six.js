@@ -1,0 +1,1 @@
+const six = 'sixth'
