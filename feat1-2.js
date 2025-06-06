@@ -1,1 +1,1 @@
-const feat1_2 = '2'
+const feat1_2 = '222222'
