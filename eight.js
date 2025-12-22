@@ -1,1 +1,1 @@
-const eight = 'eight-use git rebase to fix to eightty'
+const eight = 'eight-use git rebase to fix to eightt'
