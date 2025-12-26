@@ -1,1 +1,1 @@
-const ten = 'ten'
+const ten = "te";
